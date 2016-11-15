@@ -1,0 +1,1 @@
+<?php if (!defined(GOTMLS_INSTALL_TIME)) define('GOTMLS_INSTALL_TIME', '1474293498.8427');
